@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">WifyChat</string>
+    <string name="handlerhint">Enter your name</string>
+    <string name="btn1_text">Click to Start</string>
+    <string name="EditText2_hint">Type your msg here</string>
+    <string name="btn2_text">Send</string>
+
+    <string name="text_ham_button_text_normal">A new way to chat</string>
+    <string name="text_ham_button_sub_text_normal">Wify Chat</string>
+
+<string name="work_flow_text1">1.Connect to a wifi network / Connect to your friends hotspot or allow your friends to connect to your hotspot</string>
+<string name="work_flow_text2">2.</string>
+</resources>
